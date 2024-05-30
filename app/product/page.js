@@ -11,7 +11,9 @@ export default function ProductPage(props) {
     console.log(productInfo)
 
     if (!product?.name) {
-        window.location.href = '/'
+        if (typeof window !== 'undefined') {
+            window.location.href = '/'
+        }
     }
 
     function handleAddToCart() {

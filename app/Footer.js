@@ -22,7 +22,7 @@ export default function Footer() {
                               </p>
                               <p className="flex items-center text-sm font-medium text-dark ">
                                    <span className="mr-3 text-primary">
-                                        <i class="fa-solid fa-phone-volume"></i>     
+                                        <i className="fa-solid fa-phone-volume"></i>     
                                    </span>
                               <span>+012 (345) 678 99</span>
                               </p>
@@ -68,7 +68,7 @@ const FollowLinks = () => {
                     </h4>
                     <div className="mb-6 flex items-center">
                          <a
-                              href="javascript:void(0)"
+                              href="/"
                               className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary hover:bg-primary hover:text-white border-dark-3  hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
                          >
                               <svg
@@ -81,7 +81,7 @@ const FollowLinks = () => {
                               </svg>
                          </a>
                          <a
-                              href="javascript:void(0)"
+                              href="/"
                               className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary hover:bg-primary hover:text-white border-dark-3 hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
                          >
                               <svg
@@ -94,7 +94,7 @@ const FollowLinks = () => {
                               </svg>
                          </a>
                          <a
-                              href="javascript:void(0)"
+                              href="/"
                               className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary hover:bg-primary hover:text-white border-dark-3 hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
                          >
                               <svg
@@ -107,7 +107,7 @@ const FollowLinks = () => {
                               </svg>
                          </a>
                          <a
-                              href="javascript:void(0)"
+                              href="/"
                               className="mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-stroke text-dark hover:border-primary hover:bg-primary hover:text-white border-dark-3 hover:border-primary sm:mr-4 lg:mr-3 xl:mr-4"
                          >
                               <svg
